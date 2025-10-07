@@ -15,7 +15,7 @@ package Aug_21;
 //	}
 //}
 
-//sonu ansari
+//sonu
 class BankingSystem {
 	static int amt=11000;  //Using static variable
 public static void accountBalance(){
